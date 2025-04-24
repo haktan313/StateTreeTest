@@ -1,2 +1,2 @@
 # StateTreeTest
-I made some State Tree assets like aicontroller for it or 3 state tree, tasks, conditions, utility etc. for those i made an enemy which capable of casting magic and if his healt low enoughf it is going to find health pot on the map with EQS in state tree
+Advanced AI system using Unreal's State Tree. The enemy can cast magic, switch between passive and aggressive states, and search for health potions via EQS when low on health. For this example, I created three different State Trees, with several custom tasks, conditions, utility selectors, gameplay tags, and event handlers. Some of the logic was adapted from my HAIPro plugin, which will support full State Tree integration in future updates.
