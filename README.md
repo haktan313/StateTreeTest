@@ -1,6 +1,8 @@
 # StateTreeTest
 Advanced AI system using Unreal's State Tree. The enemy can cast magic, switch between passive and aggressive states, and search for health potions via EQS when low on health. For this example, I created three different State Trees, with several custom tasks, conditions, utility selectors, gameplay tags, and event handlers. Some of the logic was adapted from my HAIPro plugin, which will support full State Tree integration in future updates.
 
+[State Tree Example Video](https://youtu.be/MhjaffZTFmo)
+
 ![Image](https://github.com/user-attachments/assets/f0bb357c-068b-499f-be36-af1396e3588d)
 ![Image](https://github.com/user-attachments/assets/3f573e3b-82c6-4e4d-adf9-a9feee4fd72d)
 ![Image](https://github.com/user-attachments/assets/fb7cf3a6-8c3e-42ef-aa7c-e7cc31abb9e0)
